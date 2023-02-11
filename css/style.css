@@ -2,17 +2,32 @@
 /*This is a comment in CSS*/
 
 body{
-    font-family: Verdana, sans-serif;
+    font-family: Garamond, serif;
     margin: 0;
+    font-weight: 400;
+   /* background-color: rgb(230, 250, 255); */
 }
 
 h1{
     font-size: 30px;
-    
+    font-weight: 400;
+}
+
+h2{
+    font-weight: 400;
+}
+
+h3{
+    font-weight: 400;
+}
+
+h4{
+    font-weight: 400;
 }
 
 p{
     font-size: 16px;
+    font-weight: 400;
 }
 
 header{
