@@ -92,6 +92,27 @@ footer{
     background-image: url(../assets/images/piano-visualizer.jpg);
 }
 
+.flex-item a#week1-id{
+    background-image: url(../assets/images/cloud-piece.jpg);
+}
+
+.flex-item a#week2-id{
+    background-image: url(../assets/images/week2.jpg);
+}
+
+.flex-item a#week3-id{
+    background-image: url(../assets/images/week3.jpg);
+}
+
+/* .flex-item a#week4-id{
+    background-image: url(../assets/images/week4.jpg);
+}
+
+.flex-item a#week5-id{
+    background-image: url(../assets/images/week5.jpg);
+} */
+
+
 /* want a different background image for each project? */
 /* try give each a tag a unique id in your HTML and then set different background images here*/
 /* EXAMPLE CSS: won't work if you just un-comment this:*/
