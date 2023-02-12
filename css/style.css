@@ -84,12 +84,12 @@ footer{
     transition: all 0.2s; /* CSS transitions https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions */
 }
 
-.flex-item a#be-here-now{
-    background-image: url(../assets/images/be-here-now.jpeg); 
+.flex-item a#be-here-now-id{
+    background-image: url(../assets/images/be-here-now.jpg); 
 }
 
-.flex-item a#piano-visualizer{
-    background-image: url(../assets/images/piano-visualizer.jpeg);
+.flex-item a#piano-visualizer-id{
+    background-image: url(../assets/images/piano-visualizer.jpg);
 }
 
 /* want a different background image for each project? */
