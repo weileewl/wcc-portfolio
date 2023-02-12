@@ -84,13 +84,20 @@ footer{
     transition: all 0.2s; /* CSS transitions https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions */
 }
 
+.flex-item a#be-here-now{
+    background-image: url(../assets/images/be-here-now.jpeg); 
+}
+
+.flex-item a#piano-visualizer{
+    background-image: url(../assets/images/piano-visualizer.jpeg);
+}
+
 /* want a different background image for each project? */
 /* try give each a tag a unique id in your HTML and then set different background images here*/
 /* EXAMPLE CSS: won't work if you just un-comment this:*/
 /* .flex-item a#my-special-id{
     background-image: url(../assets/images/custom-image-name.jpeg); 
 } */
-
 
 .flex-item a:hover{
     color:#bbbbbb;
